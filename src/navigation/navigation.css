@@ -1,0 +1,40 @@
+.main_navigation {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2em 1em;
+}
+
+.navigation_item {
+  flex-grow: 1;
+  text-decoration: none;
+  font-family: 'Poiret One';
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 0 1em;
+  text-align: center;
+  color: #fff;
+}
+
+.navigation_item:hover {
+  color: #6774F5;
+}
+
+.logo_container {
+  flex-grow: 1;
+  max-width: 200px;
+}
+
+.logo_img { 
+  max-width: 100%; 
+  transition: all .3s ease-in;
+}
+
+.logo_img:hover {
+  transform: scale(1.1);
+}
+
+/* // This applies from 600px onwards */
+@media (min-width: 400px) {
+  .main_navigation{ padding: 1em; }
+}

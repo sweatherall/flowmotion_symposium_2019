@@ -1,0 +1,21 @@
+.shd_wrapper {
+  padding: 1em;
+}
+
+.shd_section { margin: 1em 0 3em 0; }
+
+.header_text,
+.secondary_header_text,
+.tertiary_header_text { margin: 1em 0; }
+
+.paragraph_text {
+  font-size: .9em;
+}
+
+.behaviour_title,
+.shd_flowmotion_statement {
+  color: #f7bd00;
+  font-size: 1.1em;
+}
+
+.shd_internal_section { padding: 1em; }
