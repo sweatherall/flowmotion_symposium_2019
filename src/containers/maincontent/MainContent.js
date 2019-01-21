@@ -5,6 +5,7 @@ import Instructors from '../../pages/instructors/Instructors'
 import Schedule from '../../pages/schedule/Schedule'
 import GetInvolved from '../../pages/getinvolved/GetInvolved'
 import ShdPolicy from '../../pages/shd-policy/SHDPolicy'
+import './maincontent.css'
 
 
 class MainContent extends Component {

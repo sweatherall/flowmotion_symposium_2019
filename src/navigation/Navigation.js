@@ -7,15 +7,15 @@ class Navigation extends Component {
     return (
       <div className="main_navigation">
         
-        <Link to='/' className='navigation_item'>Home</Link>
-        <Link to='/instructors' className='navigation_item'>Instructors</Link>
+        <Link to='/' className='navigation_item navigation_item_home'>Home</Link>
+        <Link to='/instructors' className='navigation_item navigation_item_instructors'>Instructors</Link>
 
-        <div className='logo_container'>
-        <img src='./assets/imgs/fmlogo.png' alt='flowmotion logo' className='logo_img'></img>
-        </div>  
+        <Link to='/' className='logo_container'>
+          <img src='./assets/imgs/fmlogo.png' alt='flowmotion logo' className='logo_img'></img>
+        </Link>  
 
-        <Link to='/schedule' className='navigation_item'>Schedule</Link>
-        <Link to='/getinvolved' className='navigation_item'>Get Involved</Link>
+        <Link to='/schedule' className='navigation_item navigation_item_schedule'>Schedule</Link>
+        <Link to='/getinvolved' className='navigation_item navigation_item_getinvolved'>Get Involved</Link>
 
       </div>
     );

@@ -1,5 +1,4 @@
 document.addEventListener("DOMContentLoaded", function(event) {
-  particlesJS.load('particles-js', './assets/json/particles.json', function() {});
   AOS.init({
     offset: 50,
     duration: 500,

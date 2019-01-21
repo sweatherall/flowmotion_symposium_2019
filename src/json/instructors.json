@@ -1,0 +1,546 @@
+{
+    "instructors": [
+      {
+        "name": "Adam Ploshay",
+        "bio": "Adam discovered acroyoga and partner acrobatics in 2013, and found a way to combine the facets of his established practices in partner dance and juggling.  He completed teaching certification with LIFT School of Acrobatics in August 2017, and is generally stoked to share the physical, intellectual, and emotional values and benefits of a partner acrobatic practice with all amenable humans.",
+        "image": "https://drive.google.com/file/d/1XJltElB_u_6tXFbKQRSUoKHOizPAAEk1/view",
+        "social": "@bloomingtonacro",
+        "classes": [
+          {
+            "class": "Acro 1",
+            "description": "Play with some games and exercises to introduce and calibrate concepts of partner weight-sharing and balance, then apply these principles in front-flying acroyoga L-base poses."
+          },
+          {
+            "class": "Acro 2",
+            "description": "Expand the vocabulary from the first session with upright and side-flying acroyoga postures, and explore options for transitions to build flows."
+          },
+          {
+            "class": "Acro 3",
+            "description": "The final session covers back-flying and inversion, and transitions into therapeutic 'lunar' practices for partner stretching, massage, and relaxation."
+          }
+        ]
+      },
+      {
+        "name": "Anita DeCastro",
+        "bio": "",
+        "image": "https://drive.google.com/open?id=0B-sB3yxBz5YIU2dHYkUzZVhsSUNCeC00dWJUUE1meXRMUzJV",
+        "social": "https://www.instagram.com/wildorchid_studio/",
+        "classes": [
+          {
+            "class": "From Athleticism to Art",
+            "description": "From Athleticism to Art is a signature class taught by Wild Orchid owner, Anita DeCastro. This all levels class develops students' ability to design and deliver movement that moves people. Participants will cultivate a deeper connection between their body, mind, and artistic voice, allowing them to bridge the gap between inner experience and external expression. Possessing creative and improvisational fluidity along with technical skill is an essential part of becoming a holistic movement artist. This class is about exploring the act of original movement and creation from multiple vantage points. Movement, music, words, materials, and environments of all kinds will be explored together in solo, duet, and group forms. By boldly committing to experimentation, students will discover and nurture their own creative voice while transforming their athleticism into art."
+          }      
+        ]
+      },  {
+        "name": "Anna Donatelle",
+        "bio": "Anna’s passion for aerial arts began at Wild Orchid. In the time she has been training at the studio, she has gained a deep appreciation for moving art of all forms. Aerials have transformed her life in countless ways and she credits Wild Orchid with catalyzing her personal journey to self-healing and discovery. She has performed in the Wild Orchid Spring Showcase for the past two years. In May 2018, she received her RYT200 from certificate.",
+        "image": "https://www.facebook.com/photo.php?fbid=3633023236650&set=a.1514900884915&type=3&theater",
+        "social": "https://www.instagram.com/wildorchid_anna/",
+        "classes": [
+          {
+            "class": "Aerial Yoga",
+            "description": "Aerial Yoga is a practice that uses a soft fabric hammock, supporting up to 2000 lbs, suspended a few feet off the ground. The hammock is a prop like a strap or block, intended to assist alignment, deepen awareness and provide immediate benefits of spinal decompression. With the weight of the body partially or fully supported along with the help of gravity and the fabric, we explore and create space in our bodies as intended in traditional Yoga practice."
+          }
+        ]
+      },  
+      {
+        "name": "April Jennifer Choi",
+        "bio": "April Choi has studied dance and movement arts almost all of her life. She is most well known for her whip skills with several Guinness Book World Records in Whip Cracking; and also as the creator and producer of the Fire Eating Tricktionary. She has an expansive repertoire of skills with various types of dance, martial arts and fire performance. She currently works as an analytical engineer in the Peoria,  Illinois and travels extensively around the country teaching and performing a myriad of dance and movement classes. April has extensive knowledge and experience in whips. With a Master’s Degree in Computational Fluid Dynamics with a focus in High Speed Compressible Multi-Phase Flows, she really understands the physics and dynamics of whips. Her circus skills have led her to teach and perform on television, at events and festivals all over the planet.",
+        "image": "https://drive.google.com/file/d/0B98loT0CQ3ptYVlDN0VZRG1GcVk/view?usp=sharing",
+        "social": "https://www.instagram.com/withoutshade86/",
+        "classes": [
+          {
+            "class": "Business Flow 1 - Foundations",
+            "description": "In this class we will be building the foundations of a business as a performance artist or someone trying to make money in the flow arts. We will cover the outline of creating and running a business with the same skeleton used for business degrees. We’ll briefly go over categories from Marketing, Advertising, Promotions, Networking, Finances, Budgeting, Cash Flow, Production, Performance, Market Research, Operations, Logistics, Business Tactics, Time Management, Negotiation, and Legal Matters, getting you ready for the business world of flow arts."
+          },
+          {
+            "class": "Business Flow 2 - Marketing Strategies",
+            "description": "Marketing is one of the biggest influences in the success of Flow Artists and Performers. We will cover marketing for the street, ambient, corporate, stage, and TV gigs. How to use Social Media, Search Engine Optimization, Analytics, Promo Kits, Branding, Networking, and other Marketing tools to boost your visibility so you can improve your gigs, engagement, and prices. Get some of the top Marketing Strategies and Secrets that have taken some flow artists from an unknown backyard spinner to having 10k+ followers and major TV contracts."
+          },
+        {
+            "class": "Business Flow 3 - Increasing Income",
+            "description": "So you are now a performer, but you’re not doing quite as well as you hoped. Come to this class and we will give you the information to increase your income so you can get better paying gigs and negotiate better rates. We’ll give you some of the business secrets like the ‘magic email’ (to get clients to respond), the ‘black swan’ (negotiation tactic to double your income), and ways to get those big gigs, sponsorships, and TV spotlights that no one else can get. From street, to part-time, to full-time performing, you’ll have the tips and tools to tackle taxes, tacky tactics, and triumph in the performing arts."
+          },
+        {
+            "class": "Business Flow 4 - Efficient Operations",
+            "description": "Once you get your business up and running, you’ll need a way to keep it running at top speed. You’ll need faster ways to respond to more and more inquiries and ways to save time keeping up with all the clients. This is the class that will take your performing business and push it to it maximum capabilities. We will cover creating client lists, online and offline documents storage, ways of making quoting, pricing, performance, finance, choreography, collaboration, application and other project planning documents, spreadsheets and tools to reduce the amount of paperwork and increase the percentage of your time doing the fun stuff."
+          }
+        ]
+      },  
+      {
+        "name": "Bird",
+        "bio": "Caitlin 'Bird' Bartow is a New York-based multiprop flow arts instructor and performer with a focus in the rope dart. She has been a resident instructor at The Floasis, Brooklyn's only school for fire arts and an instructor with the Rope Dart Academy. She has taught workshops at Fahrenheit, Flashepoint, New England Flow Fest, Flame, Kinetic, Fire Drums, Great Lakes Flow Fest, TriFlow Fest, Spin All the Things, and Juggle MIT and has taught independent workshops in New York, Boston, Philadelphia and Lancaster. She is also on the organizer teams for Fahrenheit Flow Arts (Fuel Depot), New England Flow Fest (Volunteer Coordinator) and Flashepoint (Showcase Producer).",
+        "image": "https://www.facebook.com/photo.php?fbid=10213798568897062&set=a.1621635019398&type=1&l=9653af17e7&theater",
+        "credit": "Eli Kay Photography",
+        "social": "https://www.instagram.com/ccbartow/",
+        "classes": [
+          {
+            "class": "Rope Dart 1 – Spins",
+            "description": "This class provides students with the blueprints to moving freely with a rope dart. Students will learn the three basic types of spins – elbow spins, thigh spins and neck spins, the foundational skills for rope dart."
+          },
+          {
+            "class": "Rope Dart 2 - Shots",
+            "description": "This class will cover the second fundamental skill set for a beginner rope dartist – shots. Shots are any action that causes the dart to shoot away from the body in a straight line. Students will learn three basic types of shots – elbow shots, knee shots and foot shots – as well as tips and tricks for shot retrieval and slack control."
+          },
+          {
+            "class": "Horizontal Rope Dart",
+            "description": "Subvert audience expectations by adding some plane changing to your rope dart repertoire! This workshop will cover several options for entering and exiting the horizontal plane and a handful of fun wraps, cradles and body bounces to play with while you're there."
+          },
+          {
+            "class": "Rope Dart Slack Lifts and Travelling Wraps",
+            "description": "Don't let all that rope dart length go to waste! Learn to manipulate your slack with lifts, snaps and harnesses. These techniques will open up new possibilities in close-to-the body, contact-driven, creative use of your slack. We will also cover dragon wraps and belt wraps as essential building blocks for these more advanced concepts."
+          }	  
+        ]
+      },  
+      {
+        "name": "Brecken",
+        "bio": "Brecken Rivara is a hoop dance teacher based in the US, who has been hooping for just over 13 years. Known for her ragdoll fluidity, seamless transitions, warp-speed spinning, and more recent developments in 'floor hooping' and 'hoop notation,' Brecken has been a teacher and influence to thousands of  hoopers world-wide and is considered to be one of the most prominent contributors to the form.",
+        "image": "https://www.facebook.com/photo.php?fbid=10154211138341660&set=picfp.510841659&type=3&theater",
+        "social": "https://www.instagram.com/breckenrivara/",
+        "classes": [
+          {
+            "class": "Peeling Lifts, Spins and Pops 1",
+            "description": "This class includes my favorite new hoop movement- an explosive, peeling lift on the vertical plane- and the journey to get there. Starting on the horizontal plane, we’ll learn the original peeling lift and a number of universal tips available through it. We’ll cover some stalls as well as some angle hooping and getting the hoop on and off while on angle, along with a super funky pop."
+          },
+          {
+            "class": "Peeling Lifts, Spins and Pops 2",
+            "description": "Still accessible for those not at Part 1: This is a different journey toward my favorite, new, mega move- one that begins on the vertical plane, focuses on expert footwork for spinning and includes my favorite barrel roll variation. For those at “part 1,” we can also zone into some of the lifts and “pops” covered."
+          },
+          {
+            "class": "Spiraling Floor Movements for Spinners",
+            "description": "Spiraling body movements to help you get down to, up from and all over the floor. These are the groundwork movements that I find most applicable to props and they’re more accessible than you’d think. The best props for this (so far!) are hoop, staff, rope dart, sword and single club, single poi, etc BUT please come with anything you want and be a pioneer."
+          },
+          {
+            "class": "Basic Partner Lifts/Spins",
+            "description": "Nothing too crazy here, but definitely some things worth showing off while on fire. Beginner-friendly lifts stolen from the dance people bwahaha. Some of the simplest maneuvers are actually the best looking ones and strength is less a factor than you’d think. Come with or without a partner. We’ll hook you up. "
+          }	  
+        ]
+      },  
+      {
+        "name": "Danny Rose",
+        "bio": "A member of Rift (Rhythmic Illusions Fire Tribe) From Flohio, Danny has been a passionate poi spinner for 9 years. (Maybe a little extra passionate about 3 poi for the last 2 and a half.)",
+        "image": "https://www.instagram.com/p/Bmeimh7AYCn/?utm_source=ig_share_sheet&igshid=8ou90cwz1fyw",
+        "social": "https://www.instagram.com/flowmosapien/",
+        "classes": [
+          {
+            "class": "3-Poi 1",
+            "description": "3-Poi basics, drills for control, weaves, and theory"
+          },
+          {
+            "class": "3-Poi 2",
+            "description": "Intermediate patterns and mode transitions for smoother flow"
+          }
+        ]
+      },  
+      {
+        "name": "Dushwam",
+        "bio": "In 2012 Ryan started dancing however youtube could teach.  He quickly discovered the flow arts through poi. In 2015 he attended one night of “Campfire” in MN and the instructors, performances and community inspired him like nothing had before. Immediately, he started organizing spin jams, teaching, performing and working to coordinate the WI flow community so that anybody entering the scene could get the most out of it as quickly as possible. He hopes to spread the art form and community values wherever he goes and to inspire others to do the same.",
+        "image": "https://www.facebook.com/photo.php?fbid=10217369132687053&set=pcb.2128772067448228&type=3&theater",
+        "social": "https://www.instagram.com/D0uch3am/",
+        "classes": [
+          {
+            "class": "Cultivating Community Discussion",
+            "description": "This project is traveling with me wherever I go solely to collect and share experiences. It has been run at Frostbite 2017, Campfire 2017, Playthink 2017, Fahrenheit 2017, Midwest FlowFest and Frostbite 2018 officially. I will also renegade it wherever I go. It has evolved into a more open discussion on these points: 1. Why should we grow this community at all? What are the repercussions? 2. What have we done/want to do and seen done in this effort? 3. What don't we want to see?  What do we need to avoid? No prop or skill level required"
+          },
+          {
+            "class": "Foundational Terminology for Flow Arts ",
+            "description": "Understand the linguistic framework to describe the movement of objects in space as they refer to others. Students will leave with an understanding of planes, timing and direction, types of spin, the 4 basic motions and transition theory, resulting in familiarity with 16 patterns and the ability to mix and match for many more. Further, they will develop the ability to accurately describe the movements they see inside and outside of class, giving them the tools they need to make sense of, describe, ask about and attempt patterns they witness or imagine. No skill level required (Taught with clubs, all paired props welcome)"
+          }
+        ]
+      },  
+      {
+        "name": "Dylan Rodriguez",
+        "bio": "Dylan Rodriguez is a staff enthusiast from Piqua OH. He’s been spinning sticks for 6 years and has been teaching on the FAI circuit for the past 3 years. Dylan is a father and CAD designer during the day time and double contact wizard by night.",
+        "image": "https://m.facebook.com/photo.php?fbid=1550141425038259&id=100001272502319&set=a.123194487732967&source=11&ref=bookmarks",
+        "credit": "Huizel Media",
+        "social": "https://www.instagram.com/sticksonsticks/",
+        "classes": [
+          {
+            "class": "Intro to Double Contact",
+            "description": "Beginner traps, staff wraps, and staff swaps"
+          },
+          {
+            "class": "Double Contact Staff Folding",
+            "description": "Intermediate Box Folding, Regular Folding and transitions "
+          },
+          {
+            "class": "Advanced Folding for Double Contact Staff ",
+            "description": "All the regular contact patterns within fold patterns"
+          },
+          {
+            "class": "Partner Double Contact Staff with Matt Ruffner",
+            "description": "We will start by pairing up anyone that doesnt have a partner, and going over how both people should be standing to get started. We will cover steals, partner folding, tosses, and other fun manipulations that two people can do in tandem, as well as some fun games to play with a partner.  Dylan or I will make a point to get with everyone at some point so that that can get the feel of the movements with somebody who is familiar with them.  Extra staves will be available for anyone needing them."
+          }	  
+        ]
+      },  
+      {
+        "name": "Gabriel Ford",
+        "bio": "Gabriel began his love for the arts at the age of 5 while living in California. Since then he has continued a path of progression and enjoyment for what has become his life’s ambition and fulfillment. He has an extended 22 year martial arts, weapons, theater, and dancing background In which he continues to develop his style by fusing his personal blend of martial arts, dance, and traditional forms. He has also performed and instructed at many music, art, and flow festivals through out the U.S and internationally as well. He has been instructing  nunchaku for the last 15 years as his specialty. His teaching experience over the years has since led him to craft new and approachable ways to learning that his students, young and old, enjoy and find easy and engaging to follow. All the while maintaining a balance of informative instruction combined with positive energy and a high regard for the individual student. With his introduction into the Flow arts several years go such as poi and double staff, Gabriel is now fusing the techniques learned from these props along with modern and traditional martial arts weaponry into his classes of Martial Flow. Gabriel currently hosts a monthly Cincinnati Nunchaku meet-up and skill share for all prop and movement artists new and experienced in which he continually encourages participants to attend and improve their personal growth and skill.",
+        "image": "https://www.instagram.com/p/BpXvp7KBd7y/",
+        "social": "https://www.instagram.com/gabriel_chakuista/",
+        "classes": [
+          {
+            "class": "Double Nunchaku 101",
+            "description": "In this beginner class participants will learn many basic techniques. We will first discuss a brief history regarding the story of Nunchaku while also covering its present and future. Continuing on, participants shall learn much of the terminology used in nunchaku. We will then cover our fundamental basics such as grips, stances, weaves, spins, passes, and transitions which will lead into combination building while developing coordination and timing. If you are fairly new or completely unfamiliar with nunchaku then start with this class. Recommend for all newcomers"
+          },
+          {
+            "class": "Double Nunchaku 102",
+            "description": "Students shall now learn more intermediate techniques that will supplement the basics learned from the 101 class. In this class participants shall be focusing on different patterns, timing, direction, hand-roll drills, digit-rolls, tosses, breaks, linking, and skill-drill focused exercises that help develop higher dexterity for creating personal style. Recommended for anyone with basic nunchaku understanding looking to build new patterns and combinations"
+          },
+          {
+            "class": "Double Nunchaku Advanced",
+            "description": "In this advanced class participants will take all they have learned from the previous two classes and structure complex combinations which link together a series of grip changes, stance movement, body weaves, and toss patterns. We shall then move into 2:1 grip patterns, toss-switch juggle drills, and contact nunchaku. Recommend for the more advanced nunchaku practitioner with deep understanding and experience"
+          }	  
+        ]
+      },  
+      {
+        "name": "Hallie Geyh",
+        "bio": "Hallie has been an instructor with Wild Orchid since June of 2018. She's been practicing pole arts for about three years. In 2017, she took third place in her competition category at the PSO Central Championship. She continues to study various styles of pole dance and loves to help people feel sexy in their skin.",
+        "image": "https://www.facebook.com/photo.php?fbid=10157422653569325&set=pob.722284324&type=3&theater",
+        "social": "https://www.instagram.com/halle_j_/",
+        "classes": [
+          {
+            "class": "Intro to Sexy Flow",
+            "description": "Through pole and floor-work exploration, we'll get in touch with that inner vixen as we discover what sexy is to each one of us as individuals. The class will always have aspects of movement awareness, building skill vocabulary, and musicality, all within a safe, encouraging, judgement-free environment."
+          }
+        ]
+      },  
+      {
+        "name": "Jay Jay Jimbo Rodriguez",
+        "bio": "Fuzzy, funny, and filled with gummy worms, this spinner has over 3 years of experience to share this weekend.  Jay Jay is excited to share his skill set of poi patterns and transitions in easy to follow progressions.",
+        "image": "https://m.facebook.com/photo.php?fbid=10210056511395745&id=1425591862&set=t.890260590&source=42",
+        "social": "",
+        "classes": [
+          {
+            "class": "Vertical Stalls",
+            "description": ""
+          },
+          {
+            "class": "Horizontal Stalls",
+            "description": ""
+          }
+        ]
+      },  
+      {
+        "name": "Jerad Kendall",
+        "bio": "Beginning his active life in high school, Jerad has pursued a diverse set of disciplines in search of greater knowledge and ability. Including martial arts, capoeira, weightlifting, gymnastics, hand balancing, and more, Jerad has continued to chase movement and complexity wherever he finds it. Completing a BS at IU in 2009, Jerad is continuing his education with a NSCA CSCS program to further his reach in helping others achieve the impossible. In May 2017, Jerad also competed at and won his division at the Pole Sports Organization's CPC in Chicago, bringing home a gold medal and newfound recognition for home studio Wild Orchid. He currently is taking students to help with building routines, bodies, and ability.",
+        "image": "https://www.facebook.com/photo.php?fbid=10109205090117479&set=pob.100001146554730&type=3&theater",
+        "social": "https://www.instagram.com/kindajerd/",
+        "classes": [
+          {
+            "class": "Lyra",
+            "description": "A strong emphasis on strength building exercises both on and off the lyra will be taught, as well as expanding on foundational knowledge with new poses and mini combinations."
+          }
+        ]
+      },  
+      {
+        "name": "Jessica Mardini",
+        "bio": "Jessica first picked up glowsticks on strings in 2007 and quickly fell in love with prop manipulation and the flow arts community. She is currently an Indianapolis based organizer,  performer, and instructor who graduated from Indiana University with her law degree in May 2017. A multi prop artist, she enjoys fans (her favorite!), poi, hoops, staves, juggling, and just plain dancing!. Jessica does social media work with Forged Creations, is the General Manager for Kinetic Fire, and a member of Rift Productions from Ohio.  Part raver, part burner, and all learner, Jessica is excited to share her love of dance and object manipulation with all whom she encounters.",
+        "image": "https://www.facebook.com/photo.php?fbid=997947453876&set=pb.73500371.-2207520000.1540229976.&type=3&theater",
+        "credit": "Defiant Productions",
+        "social": "https://www.instagram.com/hell0jessicat/",
+        "classes": [
+          {
+            "class": "Intro to Fans",
+            "description": "This class is for the brand new, or fairly beginner fan spinner. We will cover fan relations, grips, and basic terminology. Students will leave this class with new drills and techniques to work on as they progress in their fan journey."
+          },
+          {
+            "class": "Fan Combos",
+            "description": "This class will teach a variety of pre-made sequences, or combos with two fans. Students will leave this class with several 8-16 count combinations of moves to incorporate into their dance. A solid understanding of the foundations of fan movement (gliding, folding, stacking, isolating, etc.) will be helpful for this class."
+          },
+          {
+            "class": "Contact Fans",
+            "description": "This class will teach you to connect your body with your fans. We will cover various body rolls and contact points. We will also learn different types of transitions to get the fans on your body."
+          }
+        ]
+      },  
+      {
+        "name": "Joe Graff",
+        "bio": "Playful and off-beat skill development has always been a part of my life. When I found the flow community in 2009, I knew I had found a home. I've put extensive practice into poi, contact and double contact staff, dragon and partner dragon staff, and 3-club juggling. I've been teaching workshops in poi sine 2011, and partner dragon staff since 2015. More recently, I've chosen to focus on being an activist for consent culture in the flow arts community, and bring a workshop repertoire to festivals that focuses more on interpersonal connection and less on props.",
+        "image": "https://scontent.fphl2-1.fna.fbcdn.net/v/t1.0-9/20476424_1926876127525023_8224123614249372865_n.jpg?_nc_cat=111&_nc_ht=scontent.fphl2-1.fna&oh=205a5fdef51da311a53d734f98397eae&oe=5C475520",
+        "social": "https://www.instagram.com/pansadvocate/",
+        "classes": [
+          {
+            "class": "Emotional Clarity Practice",
+            "description": "This interactive workshop consists of a series of communication games aimed at focusing on the physiological sensations we have during our emotional experiences. It will ideally offer participants both playful and challenging opportunities for exploring the inner physical, mental, and emotional landscapes within themselves and others."
+          },
+          {
+            "class": "The Wheel Of Consent",
+            "description": "This workshop is primarily a lecture on the Wheel of Consent, a framework for talking about and understanding consensual touch experiences between individuals. The Wheel of Consent was developed by sexuality educator Dr Betty Martin, who has released a huge amount of freely available video material on the subject. The lecture will explain the basic concepts within the framework, and we'll open a discussion space afterwards."
+          },
+              {
+            "class": "Fundamentals of Play",
+            "description": "This workshop will run through a variety of partner and group exercises meant to demonstrate fundamental concepts of physical play that involves touch, in both competitive and noncompetitive forms. Some of these exercises will feel like games, others will simply be freeform physical-touch exercises meant to explore movement forms. Most will be groundwork, so please wear comfortable clothes."
+          }
+        ]
+      },  
+      {
+        "name": "Kali the Courageous",
+        "bio": "Kali Hill is a visual/performance artist, focusing on object manipulation for a over six years and Fire dancing and magic for five. Her teaching journey began with sharing her love of the flow arts, mainly hooping, and has now began to expand to meditation paired with movement. Although hoop reawakened her love for movement, she has a background of dance, baton and guard. Born 'n raised in the Dayton Ohio area, where she has contributed herself as a council member for Artistry in Motion or AIM for, a local flow/ performance arts organization for 2 years. She has received two certificates as a Empowerment Leadership & Firewalk Instructor through the Firewalking Center. As an active member of many communities, she strives to share her passion for the arts while holding space for others come into their own power.",
+        "image": "https://gertzse.zenfolio.com/kali-edited/ea60011b2",
+        "social": "https://www.instagram.com/kali_the_courageous/",
+        "classes": [
+          {
+            "class": "OdD BoDy HoOpInG",
+            "description": "Ever wanted to hula hoop with your elbow? What about your chin? ~Come get weird with us.~ We will be exploring dynamic hooping all over the body, from your head to your toes, even your nose! Breaking it down to the currents and timing, were going to find new, and possibly quirky access points on our bodies. Bring and open mind and be ready to have fun with these peculiar skills. (Extra hoops of variety provided.)"
+          },
+          {
+            "class": "Foot Hooping",
+            "description": "In this workshop we will exploring a variety of moves that involve using your feet. From kick ups and starts, to passes and dynamic foot hooping in all sorts of positions! Dazzle your audience with the amazing feat of using your feet!"
+          }
+        ]
+      },  
+      {
+        "name": "Katatonic",
+        "bio": "Kat has been flowing since 2013. In that same year she moved to Bloomington and found The Hudsucker Posse. The Posse has brought her community, strength, motivation, and passion. Through the past five years it has become apparent to her that flow is home and flowmies are family. ",
+        "image": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/36137189_1733941013380219_5969648488651161600_o.jpg?_nc_cat=100&efg=eyJpIjoidCJ9&_nc_ht=scontent-ort2-1.xx&oh=cdb16b20785124d745e0e2ee4ab7d252&oe=5C6A2970",
+        "credit": "Estil Robinson",
+        "social": "https://www.instagram.com/_katatonic/",
+        "classes": [
+          {
+            "class": "Isolation Exploration",
+            "description": "Hoop isolation class for exploring inside, outside, stationary, and moving isolations as well as integrating them into existing flow"
+          },
+          {
+            "class": "Journey Circle: Stories About Flow",
+            "description": "A story telling workshop in which the facilitator will give a flow related prompt such as “tell me about the first time you picked up a prop” or “when has flow helped you cope” The participants will roughly outline their story and then choose if they would like to share or listen. "
+          }
+        ]
+      },  {
+        "name": "KC Allen",
+        "bio": "KC Allen hails from Florida. She is an entertainer, instructor, and firewalking facilitator. Her specialty is Contact Staff dance. She travels the country teaching this, her greatest passion. Much of her life is dedicated to cultivating flow arts communities. She practices many arts - all of them are aimed at helping people dance like no one is watching. As an anthropologist, she studied human-fire relationships through early archaeological evidence and through ethnographic work with fire-focused communities. She is best known as the founder of fire performance safety teams for large-scale fire art events in the Southeast, for her tireless dedication to teaching, and her innovation in lower body Contact Staff and partner Contact Staff techniques.",
+        "image": "https://drive.google.com/open?id=162wM4uBvQFF6lnsSAYRGQovzs9dEM_q1",
+        "social": "https://www.instagram.com/kc.fyre/",
+        "classes": [
+          {
+            "class": "Intro to Contact Staff",
+            "description": "Introduces basic contact staff terminology and mechanics: rolls, wraps, traps, and balancing. Examples of movements covered: hand wraps, the conveyor belt, the halo. Emphasizes stretching and body maintenance for staff practice."
+          },
+          {
+            "class": "C-Staff with your Lower Half",
+            "description": "This course introduces the fundamentals of lower body contact staff work. It includes conditioning and tips to take home about how to work up to more advanced moves. It focuses on classes of movement (rolls, wraps, traps) that participants are already familiar with in upper body work in order to provide them with a toolset to create their own combinations. Sample course content: Leg and hip stretches, static rolling, leg and waist wraps, foot lifts and tosses, knee wraps."
+          },
+          {
+            "class": "Upper Body Contact Staff - Core Pathways",
+            "description": "Deconstructs various moves - Steve, Angel rolls, SNS/Matrix family. Each movement is taught in segments, enabling the student to grasp the mechanism of a trick, deconstruct the movement path, and construct his/her own tricks and transitions. You will leave this workshop with an intimate understanding of how the staff and your body travel through space for each move, equipped to take them home and drill them.",
+            "prerequisites": ["comfort balancing and rolling the staff on the body", "patience for drills"]
+          },
+          {
+            "class": "Full Body Contact Staff",
+            "description": "This class covers Contact Staff movement paths that make continuous contact with the upper and lower body. It will breakdown full body rolls and explore effective pathways for connecting classic upper body trick families (steves, angels, devil rolls, halos) to lower body rolls and wraps, both standing and on the floor. Participation in a Contact Staff with your Lower Half course is recommended but not mandatory."
+          },
+          {
+            "class": "Human-Fire Relationships, Past and Present",
+            "description": "Part history lesson, part socio-cultural analysis, part student participation and introspection, this class covers humans’ relationship with that element the flow arts community is often so closely wedded to: fire. With a background in archaeology and several years of ethnographic work with fire dancers and manipulators behind her, KC seeks to share some of her findings with the community. Learning about how humankind has connected with fire over the course of their existence may help you identify the nature of your relationship with it. This could have applications for your personal practice and for your performance persona."
+          }	 	  
+        ]
+      },  {
+        "name": "Kelsey Jean",
+        "bio": "Kelsey has been practicing and teaching the aerial arts for 6 years! Her favorites are the Lyra, Lollipop, and Sling. Kelsey has been embracing the flow life for nearly a decade, and first encountered the aerial arts at a flow festival! While most of her time is spent in the air, in her spare time, Kelsey enjoys traveling, hula hooping, hiking, wine, and spending time with her bunny",
+        "image": "https://drive.google.com/file/d/0By4SINUB9UlFR0lESHF5U0FBTGM/view?usp=sharing",
+        "social": "https://www.instagram.com/all.aerial.all.the.time/",
+        "classes": [
+          {
+            "class": "Lollipop Lyra 1",
+            "description": "(no experience required)! Students will learn basic mounts, dismounts, and poses utilizing the pole and hoop. Mounts: Delilah, Vine Climb, Pole Climb (straddle mount: class dependent) / Poses: Delilah Hang, Hip Hang, Layback Arabesque, Man In the Moon / Spins: Pencil, Walking/Fairy spin"
+          },
+          {
+            "class": "Lollipop Lyra 2",
+            "description": "Requirements: must have taken Beginner Lollipop Lyra or have some pole/lyra experience. Students will continue to explore and add on to beginner poses and mounts while spinning! Mounts: Straddle Mount, Pull Over Mount, Cupid Mount / Dismounts: Shoulder dismount / Poses: Walking Man, Candlestick, Superman, Forward Roll"
+          }
+        ]
+      },  {
+        "name": "Matt O'Daniel",
+        "bio": "Bursting out of Louisville, KY; Matt O' fell in love with the flow community ever since he picked up poi and attended his 1st flow festival. Since being introduced to poi he has picked up contact staff, double staff, hoop and is now grasping the concept of  juggling and club manipulation. He doesn't think his hunger to learn will ever be satisfied with so many new ideas and props that keep coming out. He now travels the region to instruct and perform with a goal to inspire and spread the beauty of the flow arts to as many people as possible.",
+        "image": "https://www.facebook.com/photo.php?fbid=10102959980467594&set=a.694246482704&type=3&theater",
+        "social": "https://www.instagram.com/mattoflows/",
+        "classes": [
+          {
+            "class": "Contact Poi 1",
+            "description": "Class focusing on the concept of manipulating the poi on & around the body while keeping in contact of the poi head, tether and/or handle. These fun ideas open you to an entire new world of poi."
+          },
+          {
+            "class": "Contact Poi 2",
+            "description": "Expanding on the concept of contact poi by taking the fundamentals and expanding on them with new ideas. Approaching with different entrance and exit strategies, defining the timing of rolls and understanding how to build sequences."
+          },
+              {
+            "class": "Contact Poi 3",
+            "description": "Taking what we know and building sequences with contact manipulation, rolls and tosses."
+          }
+        ]
+      },  
+      {
+        "name": "Matt Ruffner",
+        "bio": "Matt is a dedicated flow artist from Ohio who focuses on nunchucks and single/double contact staff. Going on three years spinning, he’s instructed at a number of flow fests in the Midwest. He continues to explore and push the boundaries of what is possible with his props of choice.",
+        "image": "https://www.dropbox.com/sh/e9prmbf4myucsv9/AACypKi9_CRr16jXBIKUU3j5a?dl=0",
+        "credit": "Sky Wild Photography",
+        "social": "https://www.instagram.com/mattruffner/",
+        "classes": [
+          {
+            "class": "Partner Double Contact Staff w/Dylan Rodriguez",
+            "description": "We will start by pairing up anyone that doesnt have a partner, and going over how both people should be standing to get started. We will cover steals, partner folding, tosses, and other fun manipulations that two people can do in tandem, as well as some fun games to play with a partner.  Dylan or I will make a point to get with everyone at some point so that that can get the feel of the movements with somebody who is familiar with them.  Extra staves will be available for anyone needing them."
+          }
+        ]
+      },  
+      {
+        "name": "Pippin and the Sharmat ",
+        "bio": "Known by day as Jackie Gajda and by night as Pippin and the Sharmat, she is the temptress of tubing! Pippin has been hoop-dancing for over six years, and has been teaching and performing for over three. She has taught and performed at events like PlayThink, Omnipresence, MOFlow, and Flowstorm! Over the last year, she has focused on making free tutorials that are available to view on her YouTube channel. Starting in the fall of 2019, Pippin will be attending graduate school to get her Masters degree in Forensic Psychology and her JD degree.",
+        "image": "https://i.redd.it/kthignj70rb11.jpg",
+        "credit": "Okami Works",
+        "social": "https://www.instagram.com/mannimarcomarco/",
+        "classes": [
+          {
+            "class": "Mini Hoop Hybrids",
+            "description": "Technical movement with mini hoops is fun, challenging, and a brain tickle! During the course of this workshop, students will touch on the foundations of timing and direction. The following moves will be discussed and dissected: isolation vs antispin, extension vs extension, split/opp vertical cateyes, vertical vs horizontal catey, isolation vs extension, isolation vs pendulum, isolation vs pentagram. This only scratches the surface of mini hoop tech, and we will talk about the possibilities this type of movement opens up to you as a flow artist!"
+          }
+        ]
+      },  
+      {
+        "name": "Prometheus",
+        "bio": "Nicknamed 'Prometheus' for his ability to share his passion and inspire others with his work and devotion . Michael has spent the last 8 years traveling and teaching multiple props and assisting in organizing flow fest in the community. His teaching styles encompass a style incorporating a meditative awareness . Engaging his students to remember to smile , his understanding and studies indulge in the technical aspects of object manipulation.",
+        "image": "https://www.facebook.com/219535678098354/photos/t.637750453/1019721244746456/?type=3&theater",
+        "social": "",
+        "classes": [
+          {
+            "class": "Advanced Flowers ",
+            "description": "Transition theory using VTG- Adding to the fundamentals of flower patterns and beyond. We will walk through the language that is VTG and pin point transition theory. I will explain and show you all patterns and body movement to make flowers a permanent fixture of your practice.",
+            "prerequisites": ["know anti spin", "in spin basic flower knowledge"]
+          },
+          {
+            "class": "Poi Body Tracers 1",
+            "description": "A workshop focused on the beginning stages of snakes and body tracing. We will be taking standard timing and directions (same time and split time) and working through the fundamentals of snakes,tracers into your practice . This will be a gentle insight into following straight lines we create with our bodies and visually with our mind as a map to create smooth and gentle variations of basic weaves and reels.",
+            "prerequisites": ["flower", "turning in flowers", "wall plane flowers antispin and inspin"," shoulder and hip reels", "over the head caps"]
+          },
+          {
+            "class": "Poi Body Tracers 2",
+            "description": "We we will dive into the advanced theory  of snaking and tracing. I will show a series of combinations that create beautiful patterns.  We will cover over the head caps, turning in flowers while tracing/snaking.",
+            "prerequisites":["Flowers", "waist wraps", "extensions", "timing", "over the head caps and direction - participating in the previous class is a plus!"]
+          },
+          {
+            "class": "Intro to Double Staff 101",
+            "description": "Introduction to double staff, extensions, isolations, inspin, anti spin. correct wrist and arm positioning for healthy practice, waist and shoulder reels and some turning.",
+            "prerequisites": ["Have sticks", "interest in learning doubles"]
+          },
+          {
+            "class": "Double Staff Basics",
+            "description": "Moving with sticks beyond basics. Classical training in timing and direction that allows creating new patterns and learning transition theory. We will cover everything to get you moving and more. Spin, anti spin, flowers, extensions, turning and some more mild tech."
+          }	  
+        ]
+      },  {
+        "name": "Propfessor",
+        "bio": "Eric 'Propfessor' Shibuya is Professor of Strategic Studies at Command and Staff College, Marine Corps University. Juggling-wise, he has taught juggling to thousands of people in workshops, conventions, and flow festivals around the world for over 20 years. He is a past Instructor of the Month of the Flow Arts Institute and currently serves on the Board of Directors for the International Jugglers Association. Eric admits to being a 5 ball, 4 club, and 4 ring solo juggler. (He is currently working on 6 and 7 balls, 5 rings, and translating his 4 club skills to 4 torches).  With another juggler, he can pass 7 clubs (8 on a good day). He currently practices with the Fredericksburg Object Manipulation Group (OMG), usually at the University of Mary Washington campus and is also a regular at Monday night Flow Lab at Eyeclopes/Everybody Drum.",
+        "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/19657003_1573608105990874_1832978125119398530_n.jpg?_nc_cat=104&_nc_ht=scontent-iad3-1.xx&oh=075132ff196175a19f120663a7dfcfbf&oe=5C86BAAD",
+        "credit": "Dave Parrish Photo",
+        "social": "https://www.instagram.com/propfessor/",
+        "classes": [
+          {
+            "class": "Intro to Juggling and Siteswap Notation",
+            "description": "This will be a basic introduction to 3 and 4 ball juggling. No previous experience is necessary and balls will be provided, though the student should feel free to bring their own. After the basic foundation patterns for both odd and even numbered patterns, the workshop will introduce siteswap notation. Siteswaps are a mathematical notation designed to communicate juggling patterns. This workshop will start with a brief history of siteswap notation, then introduce the student to how to read and understand the notation. It will cover siteswaps over values of '9', and how to notate synchronous and multiplex throws. It will end with 'siteswap sudoku', a fun way to generate siteswaps."
+          },
+          {
+            "class": "Intermediate 3 and 4 object tricks / Multiplex Juggling",
+            "description": "This workshop will work on intermediate tricks with three and four objects. It will focus on breaking down tricks, catching variations, and body position. The other focus of the workshop will be on multiplex throws. Multiplex juggling is throwing more than one object out of the same hand at the same time. This class will focus on balls, but other objects can be discussed depending on student interest. It will cover basic “split” and “stacked” multiplex throws, demonstrate their use to begin juggling as well as using them to enter into other patterns."
+          },
+          {
+            "class": "Ring and Club Juggling",
+            "description": "This workshop will focus on the other traditional juggling objects, rings and clubs. It will focus on both three and four ring/club juggling"
+          },
+          {
+            "class": "Getting Social: Juggling and Passing",
+            "description": "Club passing is one of the most entertaining and social forms of juggling. This workshop will start from the ground-up, teaching the student to develop accurate passing, how to catch a partner’s pass, and communication between jugglers. It will focus primarily on building up to right-handed passing in an “every other” or “4-count” pattern, but will introduce the student to other counts and patterns as well, if time permits."
+          }	  
+        ]
+      },  
+      {
+        "name": "Rodmeow",
+        "bio": "Part time Object manipulator and full time shenanigan instigator, Rodmeow is an Indianapolis based flow artist who began her journey as a performer  in 2011. Soon after she also began instructing workshops and working as an event organizer in 2013 and and has been featured on Hooping.org. She specializes in hoop dance, poi, fire eating, double staves, and more. Whether it be leading workshops nation wide or fire performing in her home state, her focus is to share and expand her craft with others through movement and play.",
+        "image": "https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-9/36914207_2126465427634919_1373582497480179712_n.jpg?_nc_cat=111&oh=170065190075f687e5f1afce3609e29f&oe=5C3E8F97",
+        "social": "",
+        "classes": [
+          {
+            "class": "Twice as Nice (Double Hoop)",
+            "description": "This double hoop class will go over grips, hand paths, glides, isolations, flowers, and pick-ups with two hoops. Prerequisite: Must be familiar with single hoop. "
+          }
+        ]
+      },  
+      {
+        "name": "Rozbot",
+        "bio": "Manufactured on the Southside of Chicago, Rozbot has been practicing dance since he put shoes on, but has performed professionally for 9 years now. He's dedicated himself to making FUN happen with his art, sharing his boogie all over the United States and even internationally. Although, he is a jack of all dances, he is also a master of many. His typical movements consist of strong character, pinpoint isolations, and violent control.",
+        "image": "https://www.facebook.com/okamiworks/photos/t.552069092/1798261666934981/?type=3&theater",
+        "credit": "Okami Works",
+        "social": "https://www.instagram.com/R0zb0t/",
+        "classes": [
+          {
+            "class": "Illusion-Based Dance (All Levels)",
+            "description": "dedicated to teaching the building blocks of creating illusions and dancing with them"
+          },
+          {
+            "class": "Fixed Points and Isolations (Intermediate)",
+            "description": "class dedicated to the practice of illusions of fixed points and isolations"
+          },
+          {
+            "class": "Advanced Dance  (Advanced)",
+            "description": "will teach advanced techniques and drills of popping/locking/house/animation/liquid dance"
+          }	  
+        ]
+      },  {
+        "name": "Skip Peters",
+        "bio": "Sarah (Skip) has been teaching yoga since 2016 with a specialization in Hot Vinyasa Yoga. She brings an understanding that every body is different and yoga can be adapted to fit a person's specific needs. She instructs clients from the ages of 18-90. She enjoys the creativity of Vinyasa flow and all the possibilities for freedom of personal expression through movement and increased self-awareness. This made Acro Yoga a natural addition to her personal practice. Acro provides a playful opportunity to create movement, flow, and challenge what you are truly capable of while working with others to accomplish a mutual goal. While yoga is a very introspective practice, Acro Yoga requires clear interpersonal communication. She hopes to facilitate space to increase awareness of mind and body with each breath as it guides you throughout your own practice so you can live mindfully on and off the mat. Skip teaches weekly yoga classes at Ekah Yoga, Vibe Yoga, Hoosier Heights and Area 10 Agency on Aging. She instructs Acro Foundations at Hoosier Heights with Adam Ploshay Tuesdays at 7:00pm.",
+        "image": "https://drive.google.com/open?id=0B-sB3yxBz5YIQU5waHZWWHFXNXF2RXhQT3hMTDZoRUZkemhj",
+        "social": "https://www.instagram.com/skipyogi/",
+        "classes": [
+          {
+            "class": "Acro 1",
+            "description": "Play with some games and exercises to introduce and calibrate concepts of partner weight-sharing and balance, then apply these principles in front-flying acroyoga L-base poses."
+          },
+          {
+            "class": "Acro 2",
+            "description": "Expand the vocabulary from the first session with upright and side-flying acroyoga postures, and explore options for transitions to build flows."
+          },
+          {
+            "class": "Acro 3",
+            "description": "The final session covers back-flying and inversion, and transitions into therapeutic 'lunar' practices for partner stretching, massage, and relaxation."
+          }
+        ]
+      },  {
+        "name": "Sushii",
+        "bio": "Bryan Sekine has been an active performer for over 10 years. The majority of his experience involved theater, dance, and combat choreography. It wasn't until 2015 that he discovered flow art and fell in love with spinning the dragon staff. After 2 years of combining his new found love for flow with his dance and choreography experience, he has gone on to perform and instruct at various festivals, concerts, private events, and local shows. While performing through flow arts is one of his biggest passions, it wasn't his first. Bryan is also well known for teaching people how to roll sushi, both in the online space and in person. Thus, he chose the performance name Sushii. You can see his sushi work online by searching Secrets of Sushi.",
+        "image": "https://www.instagram.com/p/Bn1962Zljvu/?utm_source=ig_share_sheet&igshid=r57sx5ehx6mh",
+        "social": "https://www.instagram.com/secrets_of_sushi/",
+        "classes": [
+          {
+            "class": "Enter the Dragon",
+            "description": "Understanding the basics of rolling directions vs. spinning direction, learning how to do a Chi Roll, and learning how to do the 4 basic variations."
+          },
+          {
+            "class": "Infinite Circles with Dragons",
+            "description": "Understanding Windmills, transitions, breaks, and putting it all together. This workshop highlights how you can generate momentum by using the backs of your hands and by using breaks."
+          },
+          {
+            "class": "Dancing with Dragons",
+            "description": "Learn how to move, dance, and be more expressive with your dragon staff flow. This workshop will focus on transitional moves that add flare to your movements and inspire new move combinations. The transition moves taught in this class include: Put Back, Behind the Back, and Snap Back."
+          },
+          {
+            "class": "How to Trap Your Dragon",
+            "description": "Understanding traps and fountains, learning how to do high traps, low traps, high fountains, low fountains, and the various transitions between them all. We will also cover how to enter and exit these traps and fountains."
+          },
+          {
+            "class": "Say Your Prayers",
+            "description": "Understanding 1 Armed Rolls and Prayers, learning the 4 variations of the 1 Armed Roll, and entering/exiting Prayers. We will also go over various ways to incorporate these tricks into your play with a few fun transitions."
+          }	  
+        ]
+      },  
+      {
+        "name": "Thuy Bogart",
+        "bio": "Thuy has been teaching pole at Wild Orchid since October of 2017, but learned and taught pole in Argentina for many years. She blends tango style movements and dance with her pole artistry to create fluid routines and combinations.",
+        "image": "https://www.facebook.com/photo.php?fbid=10155844304649385&set=pob.532565447&type=3&theater",
+        "social": "",
+        "classes": [
+          {
+            "class": "Pole 1",
+            "description": "A strong emphasis on strength building exercises both on and off the pole will be taught, as well as expanding on foundational knowledge with new spins, floor work, and mini combinations."
+          }      
+        ]
+      }
+    ]
+  }

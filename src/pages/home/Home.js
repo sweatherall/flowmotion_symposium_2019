@@ -1,7 +1,15 @@
 import React, { Component } from 'react';
-import './home.css'
+import './home.css';
+import 'particles.js/particles';
+import sponsors from '../../json/sponsors.json';
+const flow_sponsors = sponsors.sponsors;
+const particlesJS = window.particlesJS;
 
 class Home extends Component {
+  componentDidMount() {
+    console.log(flow_sponsors)
+    particlesJS.load('particles-js', './assets/json/particles.json', function() {});
+  }
   render() {
     return (
       <div className="home">
@@ -9,15 +17,24 @@ class Home extends Component {
         <div id="primary_section">
 
           <div id="main_focus">    
-            <div className="ouac_image_container">
-              <img className='ouac_img' alt='event photo' src="./assets/imgs/flowmotion_fb_eventphoto.png"></img>
+            <div className="main_image_container">
+              <div className="mainimage_image_container">
+                <a href='https://squareup.com/store/flowmotionevents/' target='_blank'>
+                  <img className='weekend_img main_img' alt='symposium weekend' src="./assets/imgs/weekend_poster_v1.png"></img>
+                </a>
+              </div>
+              <div className="mainimage_image_container">
+                <a href='https://squareup.com/store/flowmotionevents/' target='_blank'>
+                  <img className='show_img main_img' alt='madame gray show' src="./assets/imgs/event_poster_v2.png"></img>
+                </a>
+              </div>
             </div>
             
-            <div className="main_button buy-ouac-tickets-btn">
+            {/* <div className="main_button buy-ouac-tickets-btn">
               <a className='button_text' href='https://squareup.com/store/flowmotionevents/' target="_blank">
               tickets
               </a>
-            </div>
+            </div> */}
           </div>
 
           <div className="main_button goto-section-btn bounce">
@@ -91,22 +108,31 @@ class Home extends Component {
         <div className='bottom-section'>
           <div className='section' data-aos="fade-up">
             <div className='section-content'>
-            <div className='secondary_header_text'>Mission Statement: </div>
-            <div className='paragraph_text small-text'>Our mission is to create vibrant productions and robust curriculums, cultivate personal exploration and satisfaction by providing a space for meaningful and playful collaborations, and connect the experiences within flow and cirque arts programming to patterns of learning applicable in everyday life.</div>
+              <div className='secondary_header_text'>Mission Statement: </div>
+              <div className='paragraph_text small-text'>Our mission is to create vibrant productions and robust curriculums, cultivate personal exploration and satisfaction by providing a space for meaningful and playful collaborations, and connect the experiences within flow and cirque arts programming to patterns of learning applicable in everyday life.</div>
             </div>
           </div>
 
-        
+
+          <div id='sponsor_section' className='section'>
+            <div className='secondary_header_text sponsor-header'>thank you to our sponsors</div>
+            <div className='sponsors clr'>
+              <div id='hexGrid'>
+                {flow_sponsors.map(function(sponsor, index){
+                  return (
+                    <div key={index} className='hex sponsor' data-aos="fade-zoom-in">
+                      <div className='hexIn'>
+                        <a className='hexLink' href={sponsor.url} target="_blank">
+                          <img className='sponsor-img' src={sponsor.src} alt={sponsor.alt}></img>
+                        </a>
+                      </div>
+                    </div>
+                  )
+                })}
+              </div>
+            </div>
+          </div>
         </div>
-        
-        {/* .bottom-section
-        
-          +mission_statement
-            
-          +sponsors
-                
-        
-        +footer */}
 
         
       </div>

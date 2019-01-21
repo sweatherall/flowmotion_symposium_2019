@@ -11,9 +11,9 @@
   font-family: 'Poiret One';
   text-transform: uppercase;
   font-weight: 700;
-  margin: 0 1em;
   text-align: center;
   color: #fff;
+  flex:1;
 }
 
 .navigation_item:hover {
@@ -23,18 +23,32 @@
 .logo_container {
   flex-grow: 1;
   max-width: 200px;
+  flex:1;
 }
+
 
 .logo_img { 
   max-width: 100%; 
   transition: all .3s ease-in;
+  min-width: 100px;
 }
 
 .logo_img:hover {
   transform: scale(1.1);
 }
 
-/* // This applies from 600px onwards */
+/* // This applies from 400px onwards */
 @media (min-width: 400px) {
   .main_navigation{ padding: 1em; }
+}
+
+/* // This applies to 600px and less */
+@media (max-width: 600px) {
+  .main_navigation { font-size: .8em; }
+  .logo_img { min-width: 60px; }
+  .navigation_item_home { display: none; }
+  .logo_container { order: 1 }
+  .navigation_item_instructors { order: 2 }
+  .navigation_item_schedule { order: 3 }
+  .navigation_item_getinvolved { order: 4 }
 }

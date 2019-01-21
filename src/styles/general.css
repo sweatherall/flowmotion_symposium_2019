@@ -14,6 +14,14 @@ html, body {
   min-height: 100%;
 }
 
+.App {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+
+
 .header_text {
   font-family: 'Lobster', cursive;
   font-size: 1.8em;

@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
+import './schedule.css';
 
 class Schedule extends Component {
   render() {
     return (
-      <div className="schedule">
+      <div className="schedule_container">
         
-        <h1>schedule</h1>
+        <h1 className="schedule_header">schedule is coming soon..!</h1>
 
       </div>
     );
