@@ -1,5 +1,19 @@
 .main_content { 
   flex: 1; 
-  padding: 1em 2em;
-  overflow-x: hidden;
+  overflow: hidden;
+}
+
+#loadingscreen {
+  position: absolute;
+  top: 0; bottom: 0;
+  left: 0; right: 0;
+  background: linear-gradient(#080416, #271669);;
+  text-align: center;
+  transition: 2s linear all;
+  opacity: 1;
+  z-index: 55;
+}
+#loadingscreen img {
+  max-width: 200px;
+  margin: 5em 0 0 0;
 }

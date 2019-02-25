@@ -4,7 +4,7 @@ import './shd-policy.css';
 class ShdPolicy extends Component {
   render() {
     return (
-      <div className="shd_wrapper">
+      <div className="shd_wrapper content-container">
         <div className="header_text"> Sexual Harassment and Discrimination Policy </div>
         <div className="shd_section"> 
           <div className="shd_flowmotion_statement paragraph_text"> 

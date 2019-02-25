@@ -1,16 +1,12 @@
 import React, { Component } from 'react';
+import { Instagram } from 'react-feather';
 import './instructor.css';
 
 class Instructor extends Component {
-
-
-  componentDidMount() {
-    console.log('instructor');
-  }
   
   render(props) {
     return (
-      <div className="instructor_element">
+      <div className="instructor_element" data-aos="fade-up">
         <div className="instructor_bg_element"></div>
 
         <div className='instructor_header'>
@@ -20,7 +16,8 @@ class Instructor extends Component {
           <div className='instructor_name_container'>
             <div className="instructor_name">{this.props.instructor.name}</div>
             <a className='instructor_social' href={this.props.instructor.social} target="_blank">
-              <i className='instagram-icon' data-feather="instagram"></i>
+              {/* <i className='instagram-icon' data-feather="instagram"></i> */}
+              <Instagram className='instagram-icon'/>
             </a>
           </div>
         </div>

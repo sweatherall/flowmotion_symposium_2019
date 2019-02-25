@@ -7,13 +7,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
   });
   feather.replace()
 
-  setTimeout(function(){
-    document.querySelector('#loadingscreen').style.opacity = 0
-    document.querySelector('#loadingscreen').style.zIndex = -1
-  },10);
-
-
-
   window.onscroll = function() {
     if (document.documentElement.scrollTop > 200) {
       document.querySelector('.goto-section-btn').style.opacity = '0'

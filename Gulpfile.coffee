@@ -41,19 +41,6 @@ gulp.task 'mainjs', () ->
 
 
 # css minification
-gulp.task 'styles', () ->
-  gulp.src [
-    "code/less/styles.less"
-  ]
-    .pipe less({
-        paths:'static/css/'
-        plugins:[cleanCSS]
-        filename: 'styles.less'
-      })
-    .pipe rename {extname: '.min.css'} # rename the file so it is .min
-    .pipe gulp.dest 'static/css/'
-
-# css minification
 gulp.task 'vendorstyles', () ->
   gulp.src [
     "node_modules/aos/dist/aos.css"
@@ -64,3 +51,6 @@ gulp.task 'vendorstyles', () ->
     .pipe concat 'vendor_styles.css'
     # .pipe rename {extname: '.min.css'} # rename the file so it is .min
     .pipe gulp.dest 'public/css/'
+
+
+gulp.task 'default', () -> 

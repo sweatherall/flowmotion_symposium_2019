@@ -12,6 +12,7 @@ html, body {
   background: linear-gradient(#080416, #6774F5);
   color: #fff;
   min-height: 100%;
+  position: relative;
 }
 
 .App {
@@ -20,7 +21,11 @@ html, body {
   flex-direction: column;
 }
 
-
+.content-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1em 2em;
+}
 
 .header_text {
   font-family: 'Lobster', cursive;

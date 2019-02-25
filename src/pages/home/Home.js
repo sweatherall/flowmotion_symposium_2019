@@ -6,10 +6,15 @@ const flow_sponsors = sponsors.sponsors;
 const particlesJS = window.particlesJS;
 
 class Home extends Component {
+
   componentDidMount() {
-    console.log(flow_sponsors)
     particlesJS.load('particles-js', './assets/json/particles.json', function() {});
   }
+
+  handleImageLoaded() {
+    document.getElementsByClassName('home')[0].style.opacity = 1;
+  }
+
   render() {
     return (
       <div className="home">
@@ -19,27 +24,29 @@ class Home extends Component {
           <div id="main_focus">    
             <div className="main_image_container">
               <div className="mainimage_image_container">
-                <a href='https://squareup.com/store/flowmotionevents/' target='_blank'>
-                  <img className='weekend_img main_img' alt='symposium weekend' src="./assets/imgs/weekend_poster_v1.png"></img>
+                <a href='https://squareup.com/store/flowmotionevents/' target='_blank' rel="noopener noreferrer">
+                  <img 
+                    className='weekend_img main_img' 
+                    alt='symposium weekend' 
+                    src="./images/weekend_poster_v1.png"
+                    onLoad={this.handleImageLoaded.bind(this)}></img>
                 </a>
               </div>
               <div className="mainimage_image_container">
-                <a href='https://squareup.com/store/flowmotionevents/' target='_blank'>
-                  <img className='show_img main_img' alt='madame gray show' src="./assets/imgs/event_poster_v2.png"></img>
+                <a href='https://squareup.com/store/flowmotionevents/' target='_blank' rel="noopener noreferrer">
+                  <img 
+                    className='show_img main_img' 
+                    alt='madame gray show' 
+                    src="./images/event_poster_v2.png"></img>
                 </a>
               </div>
             </div>
             
-            {/* <div className="main_button buy-ouac-tickets-btn">
-              <a className='button_text' href='https://squareup.com/store/flowmotionevents/' target="_blank">
-              tickets
-              </a>
-            </div> */}
           </div>
 
           <div className="main_button goto-section-btn bounce">
             <span className='paragraph_text'>check it out</span>
-            <img className='downcaret_img' alt='down caret' src="./assets/imgs/down_caret.png"></img>
+            <img className='downcaret_img' alt='down caret' src="./images/down_caret.png"></img>
           </div>
           
         </div>  

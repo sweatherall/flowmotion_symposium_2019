@@ -1,1 +1,5 @@
-.schedule_header { text-align: center; }
+.schedule_header { 
+  font-family: 'Lobster', cursive;
+  text-align: center; 
+  margin: 2em auto;
+}

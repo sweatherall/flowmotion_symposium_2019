@@ -1,5 +1,4 @@
 document.addEventListener("DOMContentLoaded", function(event) {
-  particlesJS.load('particles-js', './assets/json/particles.json', function() {});
   AOS.init({
     offset: 50,
     duration: 500,
@@ -7,13 +6,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
     delay: 50,
   });
   feather.replace()
-
-  setTimeout(function(){
-    document.querySelector('#loadingscreen').style.opacity = 0
-    document.querySelector('#loadingscreen').style.zIndex = -1
-  },10);
-
-
 
   window.onscroll = function() {
     if (document.documentElement.scrollTop > 200) {

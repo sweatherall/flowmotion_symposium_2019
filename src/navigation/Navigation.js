@@ -11,7 +11,7 @@ class Navigation extends Component {
         <Link to='/instructors' className='navigation_item navigation_item_instructors'>Instructors</Link>
 
         <Link to='/' className='logo_container'>
-          <img src='./assets/imgs/fmlogo.png' alt='flowmotion logo' className='logo_img'></img>
+          <img src='./images/fmlogo.png' alt='flowmotion logo' className='logo_img'></img>
         </Link>  
 
         <Link to='/schedule' className='navigation_item navigation_item_schedule'>Schedule</Link>
