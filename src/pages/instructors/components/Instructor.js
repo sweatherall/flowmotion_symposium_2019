@@ -15,7 +15,7 @@ class Instructor extends Component {
           </div>
           <div className='instructor_name_container'>
             <div className="instructor_name">{this.props.instructor.name}</div>
-            <a className='instructor_social' href={this.props.instructor.social} target="_blank">
+            <a className='instructor_social' href={this.props.instructor.social} target="_blank" rel="noopener noreferrer">
               {/* <i className='instagram-icon' data-feather="instagram"></i> */}
               <Instagram className='instagram-icon'/>
             </a>

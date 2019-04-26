@@ -87,11 +87,11 @@ class Home extends Component {
               </div>
 
               <div className="main_button gradient_btn gradient_btn_1" data-aos='fade-zoom-in'>
-                <a className='button_text' href='https://squareup.com/store/flowmotionevents/' target="_blank"> tickets </a>
+                <a className='button_text' href='https://squareup.com/store/flowmotionevents/' target="_blank" rel="noopener noreferrer"> tickets </a>
               </div>
 
               <div className="main_button gradient_btn gradient_btn_4 margin-top-1em" data-aos='fade-zoom-in'>
-                <a className='button_text' href='https://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Flowmotion%20Symposium^BMGCY`FLOFLOA|FLOFLOB`119.00`USD`false`5`3/15/19`3/17/19`3/8/19&app=resvlink&stop_mobi=yes' target="_blank"> book your room </a>
+                <a className='button_text' href='https://www.marriott.com/meeting-event-hotels/group-corporate-travel/groupCorp.mi?resLinkData=Flowmotion%20Symposium^BMGCY`FLOFLOA|FLOFLOB`119.00`USD`false`5`3/15/19`3/17/19`3/8/19&app=resvlink&stop_mobi=yes' target="_blank" rel="noopener noreferrer"> book your room </a>
               </div>
             
             </div>
@@ -100,13 +100,13 @@ class Home extends Component {
             <div className="secondary_section__section get_involved">
               <div className="header_text" data-aos="fade-up">Get Involved:</div>
               <div className="main_button gradient_btn gradient_btn_2 get_involved_btn" data-aos='fade-zoom-in' data-aos-offset='100'>
-                <a className='button_text' href='https://docs.google.com/forms/d/e/1FAIpQLScd0QBLSBDd5ieM46jFueh1_GpnnzZSHOUBvf1ACg328ulnUQ/viewform?usp=sf_link' target="_blank"> volunteer </a>
+                <a className='button_text' href='https://docs.google.com/forms/d/e/1FAIpQLScd0QBLSBDd5ieM46jFueh1_GpnnzZSHOUBvf1ACg328ulnUQ/viewform?usp=sf_link' target="_blank" rel="noopener noreferrer"> volunteer </a>
               </div>
               <div className="main_button gradient_btn gradient_btn_3 get_involved_btn" data-aos='fade-zoom-in' data-aos-offset='100'>
-                <a className='button_text' href='https://docs.google.com/forms/d/e/1FAIpQLSeNYtYfyW9WYDfRHVMzS0DOztMF2MVorqsMPQwnBzM3d5DquQ/viewform?vc=0&c=0&w=1' target="_blank"> perform </a>
+                <a className='button_text' href='https://docs.google.com/forms/d/e/1FAIpQLSeNYtYfyW9WYDfRHVMzS0DOztMF2MVorqsMPQwnBzM3d5DquQ/viewform?vc=0&c=0&w=1' target="_blank" rel="noopener noreferrer"> perform </a>
               </div>
               <div className="main_button gradient_btn gradient_btn_5 get_involved_btn" data-aos='fade-zoom-in' data-aos-offset='100'>
-                <a className='button_text' href='https://docs.google.com/forms/d/e/1FAIpQLSea6xpvRZwVQ2aj0464jffJ0s66ggQL_F3HaYK3mfygYBkciA/viewform?usp=sf_link' target="_blank"> vend </a>
+                <a className='button_text' href='https://docs.google.com/forms/d/e/1FAIpQLSea6xpvRZwVQ2aj0464jffJ0s66ggQL_F3HaYK3mfygYBkciA/viewform?usp=sf_link' target="_blank" rel="noopener noreferrer"> vend </a>
               </div>
             </div>
           </div>
@@ -129,7 +129,7 @@ class Home extends Component {
                   return (
                     <div key={index} className='hex sponsor' data-aos="fade-zoom-in">
                       <div className='hexIn'>
-                        <a className='hexLink' href={sponsor.url} target="_blank">
+                        <a className='hexLink' href={sponsor.url} target="_blank" rel="noopener noreferrer">
                           <img className='sponsor-img' src={sponsor.src} alt={sponsor.alt}></img>
                         </a>
                       </div>

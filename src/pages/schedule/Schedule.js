@@ -9,11 +9,11 @@ class Schedule extends Component {
         <h1 className="schedule_header">FlowMotion Symposium 2019 Schedule</h1>
 
         <div className="schedule_img_container">
-          <img className='schedule_img' src='./images/symposium_sched_friday.png'></img>
+          <img className='schedule_img' src='./images/symposium_sched_friday.png' alt='friday schedule'></img>
         </div>
 
         <div className="schedule_img_container">
-          <img className='schedule_img' src='./images/symposium_sched_sat.png'></img>
+          <img className='schedule_img' src='./images/symposium_sched_sat.png' alt='saturday schedule'></img>
         </div>
 
       </div>

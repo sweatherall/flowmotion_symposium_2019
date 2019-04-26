@@ -8,12 +8,12 @@ class Footer extends Component {
       <div id="footer">
         <div className='social-media'>
           <div className='social-media-block'>
-            <a className='facebook' href="https://www.facebook.com/flowmotionretreats/?fref=ts" target="_blank">
+            <a className='facebook' href="https://www.facebook.com/flowmotionretreats/?fref=ts" target="_blank" rel="noopener noreferrer">
               <i className='facebook-icon social-media-icon' data-feather="facebook"></i>
             </a>
           </div>
           <div className='social-media-block'>
-            <a className='instagram' href="https://www.instagram.com/flowmotionevents/" target="_blank">
+            <a className='instagram' href="https://www.instagram.com/flowmotionevents/" target="_blank" rel="noopener noreferrer">
               <i className='instagram-icon social-media-icon' data-feather="instagram"></i>
             </a>
           </div>
