@@ -98,6 +98,11 @@
     {
       "src": "https://i1.wp.com/flowmotionretreat.com/wp-content/uploads/2017/10/sponsors-1.jpg?w=1170",
       "url": "http://www.hibachistudios.com/",
-      "alt": "hibachi studios"}
+      "alt": "hibachi studios"},
+
+    {
+      "src": "./images/bloomington_massage.jpg",
+      "url": "https://www.bloomingtonbodyworks.com/",
+      "alt": "Bloomington Massage"}
   ]
 }

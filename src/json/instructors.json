@@ -19,27 +19,39 @@
             "description": "The final session covers back-flying and inversion, and transitions into therapeutic 'lunar' practices for partner stretching, massage, and relaxation."
           }
         ]
-      },
-      {
-        "name": "Anita DeCastro",
-        "bio": "",
-        "image": "./images/instructors/8.png",
-        "social": "https://www.instagram.com/wildorchid_studio/",
-        "classes": [
-          {
-            "class": "From Athleticism to Art",
-            "description": "From Athleticism to Art is a signature class taught by Wild Orchid owner, Anita DeCastro. This all levels class develops students' ability to design and deliver movement that moves people. Participants will cultivate a deeper connection between their body, mind, and artistic voice, allowing them to bridge the gap between inner experience and external expression. Possessing creative and improvisational fluidity along with technical skill is an essential part of becoming a holistic movement artist. This class is about exploring the act of original movement and creation from multiple vantage points. Movement, music, words, materials, and environments of all kinds will be explored together in solo, duet, and group forms. By boldly committing to experimentation, students will discover and nurture their own creative voice while transforming their athleticism into art."
-          }      
-        ]
       },  {
-        "name": "Anna Donatelle",
-        "bio": "Anna’s passion for aerial arts began at Wild Orchid. In the time she has been training at the studio, she has gained a deep appreciation for moving art of all forms. Aerials have transformed her life in countless ways and she credits Wild Orchid with catalyzing her personal journey to self-healing and discovery. She has performed in the Wild Orchid Spring Showcase for the past two years. In May 2018, she received her RYT200 from certificate.",
-        "image": "./images/instructors/9.png",
-        "social": "https://www.instagram.com/wildorchid_anna/",
+        "name": "Aerialogy",
+        "bio": "Aerialogy is a Bloomington-local aerial arts studio committed to providing an out of the box outlet for expression and a unique fitness experience that is universally accessible to all. They offer classes in many fantastic forms of flight, as well as professional performances that provide an elevated level of entertainment at any event. Aerialogy dares you not only to look ahead but to look up, especially at Madame Grey’s Gravity Cirkus, where they will be performing two brilliant acts they’ve spent months refining and perfecting. They can’t wait for you to see it!",
+        "image": "./images/instructors/aeriology.jpg",
+        "social": "https://www.aerialogy.fitness/",
         "classes": [
           {
-            "class": "Aerial Yoga",
-            "description": "Aerial Yoga is a practice that uses a soft fabric hammock, supporting up to 2000 lbs, suspended a few feet off the ground. The hammock is a prop like a strap or block, intended to assist alignment, deepen awareness and provide immediate benefits of spinal decompression. With the weight of the body partially or fully supported along with the help of gravity and the fabric, we explore and create space in our bodies as intended in traditional Yoga practice."
+            "class": "Getting your feet off the ground (Aerial silks 101)",
+            "description": "Scared of heights? New to aerial silks? This is the perfect class for you! We will be exploring inversions, spins, balancing poses, and other foundational skills in this low-intensity, close to the ground, aerial movement class."
+          },
+          {
+            "class": "Feeling Knotty (Silks Knots)",
+            "description": "Thought egg knots were just for beginners? You thought wrong. In this specialty silks workshop, students of all levels can enrich their egg knot skillset and learn to flip, spin, and create new shapes - all within the knot."
+          },
+          {
+            "class": "The other kind of hoop (Lyra)",
+            "description": "Tired of playing with hoops on the ground? Come learn the art of the aerial hoop and explore everything from basic inversions to splits, spins, drops, and tricks under, in, and above the hoop. This all-inclusive course is for every skill level - so whether this is your first time on a lyra or you've been practicing for years, you'll be sure to test your limits and learn something new."
+          },
+          {
+            "class": "Somethings A-foot (foot work with silks)",
+            "description": "Come delve into the world of shapes that can be made with your feet tangled up! This progressive, multi-level aerial silks class will include different ways to enter a footlock and the skills that can be achieved with your footlocks."
+          },
+          {
+            "class": "The 7 deadly spins (silks spin work)",
+            "description": "This dizzying workshop will level up your spinning skills on aerial silks. We'll spin right-side up, upside-down, sideways, solo and with a partner. Prerequisites: climbing and hip key on silks "
+          },
+          {
+            "class": "Triple A: Advanced Aerial Aviation",
+            "description": "Are you looking for a challenge? This advanced aerial silks workshop is the perfect opportunity for those with previous silks experience to upgrade their aerial knowledge in a high-intensity class that will focus on advanced climbing techniques, descents, conditioning, and drops."
+          },
+          {
+            "class": "Chandelyra (intro)",
+            "description": "Tip that lyra on it's side and practice partner acrobatics, mounts, spanset work, and the art of making lovely shapes on chandelyra."
           }
         ]
       },  
@@ -220,19 +232,7 @@
             "description": ""
           }
         ]
-      },  
-      {
-        "name": "Jerad Kendall",
-        "bio": "Beginning his active life in high school, Jerad has pursued a diverse set of disciplines in search of greater knowledge and ability. Including martial arts, capoeira, weightlifting, gymnastics, hand balancing, and more, Jerad has continued to chase movement and complexity wherever he finds it. Completing a BS at IU in 2009, Jerad is continuing his education with a NSCA CSCS program to further his reach in helping others achieve the impossible. In May 2017, Jerad also competed at and won his division at the Pole Sports Organization's CPC in Chicago, bringing home a gold medal and newfound recognition for home studio Wild Orchid. He currently is taking students to help with building routines, bodies, and ability.",
-        "image": "./images/instructors/16.png",
-        "social": "https://www.instagram.com/kindajerd/",
-        "classes": [
-          {
-            "class": "Lyra",
-            "description": "A strong emphasis on strength building exercises both on and off the lyra will be taught, as well as expanding on foundational knowledge with new poses and mini combinations."
-          }
-        ]
-      },  
+      },
       {
         "name": "Jessica Mardini",
         "bio": "Jessica first picked up glowsticks on strings in 2007 and quickly fell in love with prop manipulation and the flow arts community. She is currently an Indianapolis based organizer,  performer, and instructor who graduated from Indiana University with her law degree in May 2017. A multi prop artist, she enjoys fans (her favorite!), poi, hoops, staves, juggling, and just plain dancing!. Jessica does social media work with Forged Creations, is the General Manager for Kinetic Fire, and a member of Rift Productions from Ohio.  Part raver, part burner, and all learner, Jessica is excited to share her love of dance and object manipulation with all whom she encounters.",
@@ -365,7 +365,7 @@
       },  
       {
         "name": "Pippin and the Sharmat ",
-        "bio": "Known by day as Jackie Gajda and by night as Pippin and the Sharmat, she is the temptress of tubing! Pippin has been hoop-dancing for over six years, and has been teaching and performing for over three. She has taught and performed at events like PlayThink, Omnipresence, MOFlow, and Flowstorm! Over the last year, she has focused on making free tutorials that are available to view on her YouTube channel. Starting in the fall of 2019, Pippin will be attending graduate school to get her Masters degree in Forensic Psychology and her JD degree.",
+        "bio": "Known by day as Jackie Gajda and by night as Pippin and the Sharmat, they are the temptress of tubing! Pippin has been hoop-dancing for over six years, and has been teaching and performing for over three. They have taught and performed at events like PlayThink, Omnipresence, MOFlow, and Flowstorm! Over the last year, they have focused on making free tutorials that are available to view on her YouTube channel. Starting in the fall of 2019, Pippin will be attending graduate school to get their Masters degree in Forensic Psychology and their JD degree.",
         "image": "./images/instructors/12.png",
         "credit": "Okami Works",
         "social": "https://www.instagram.com/mannimarcomarco/",
