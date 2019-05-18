@@ -11,12 +11,12 @@
       "alt": "midwest color printing"},
 
     {
-      "src": "https://i2.wp.com/flowmotionretreat.com/wp-content/uploads/2017/10/darn-good-soup-1.jpg?zoom=2&w=1170",
+      "src": "./images/DGS_logo_vFINAL med.jpg",
       "url": "http://darngoodsoup.com/",
       "alt": "darn good soup"},
 
     {
-      "src": "https://i1.wp.com/flowmotionretreat.com/wp-content/uploads/2017/10/bikesmiths2.jpg?zoom=2&w=1170",
+      "src": "./images/bikesmiths_logo.jpg",
       "url": "http://bikesmiths.net/",
       "alt": "bikesmiths"},
 
@@ -71,22 +71,22 @@
       "alt": "east west acupuncture"},
 
     {
-      "src": "https://i0.wp.com/flowmotionretreat.com/wp-content/uploads/2017/10/pizza-x-1.jpg?zoom=2&w=1170",
+      "src": "./images/PizzaX_horizontal_2c_Tagline.jpg",
       "url": "http://www.pizzaxbloomington.com/",
       "alt": "pizza x bloomington"},
 
     {
-      "src": "https://i0.wp.com/flowmotionretreat.com/wp-content/uploads/2017/10/cardinal-spirits-1.png?zoom=2&w=1170",
+      "src": "./images/CardinalSpirits-logo-720.png",
       "url": "https://www.cardinalspirits.com/",
       "alt": "cardinal spirits"},
 
     {
-      "src": "https://i0.wp.com/flowmotionretreat.com/wp-content/uploads/2017/10/rhinos-1.png?zoom=2&w=1170",
+      "src": "./images/rhinos.jpg",
       "url": "http://www.rhinosyouthcenter.org/",
       "alt": "rhinos youth center"},
 
     {
-      "src": "https://i2.wp.com/flowmotionretreat.com/wp-content/uploads/2017/10/thats-the-rub-1.jpg?zoom=2&w=1170",
+      "src": "./images/thatstherub.png",
       "url": "http://thatstherub.com/",
       "alt": "thats the rub"},
 
